@@ -1,0 +1,15 @@
+# API keys and secrets
+.env
+*.env
+
+# JSONL training files (generated)
+data.jsonl
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
